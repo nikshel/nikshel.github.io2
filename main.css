@@ -109,11 +109,15 @@ main .content h2 {
 
 main .content img {
     float: right;
+    padding-bottom: 20px;
 }
 
 body > footer {
     width: 100%;
-    padding-left: 20px;
+    display: block;
+    margin-top: 20px;
+    background-color: #ffcd75;
+    border-radius: 10px 10px 0 0;
     float: left;
     text-align: left;
 }
