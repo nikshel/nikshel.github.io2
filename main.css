@@ -119,7 +119,10 @@ body > footer {
     background-color: #ffcd75;
     border-radius: 10px 10px 0 0;
     float: left;
-    text-align: left;
+}
+
+body > footer span {
+    padding-left: 20px;
 }
 
 @media screen and (max-width: 768px) {
